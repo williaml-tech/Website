@@ -1,0 +1,9 @@
+[
+  { "value": "anti-aging", "label": "Anti-Aging" },
+  { "value": "acne-and-pore", "label": "Acne and Pore" },
+  { "value": "pigmentation", "label": "Pigmentation" },
+  { "value": "loss-of-collagen", "label": "Loss of Collagen" },
+  { "value": "fat-reduction", "label": "Fat Reduction" },
+  { "value": "complexion", "label": "Complexion" }
+]
+
