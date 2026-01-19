@@ -28,7 +28,7 @@ const Header = () => {
     { href: '/concerns', label: 'Concerns' },
     { href: '/treatment', label: 'Treatment', hasDropdown: true },
     { href: '/blog', label: 'Blog' },
-    { href: '/appointment', label: 'Make appointment' },
+    { href: 'https://www.fresha.com/book-now/klinik-ka-aesthetic-clinic-fivxhb80/all-offer?share=true&pId=2723491', label: 'Make appointment' },
     { href: '/contact', label: 'Contact us' }
   ];
 
