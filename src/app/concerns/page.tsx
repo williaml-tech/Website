@@ -205,7 +205,14 @@ const ConcernsPage: React.FC = () => {
                           />
                         </svg>
                       </button>
-                      <a className="btn-book" href="/appointment">Make an Appointment</a>
+                      <a 
+  className="btn-book" 
+  href="https://www.fresha.com/book-now/klinik-ka-aesthetic-clinic-fivxhb80/all-offer?share=true&pId=2723491"
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  Make an Appointment
+</a>
                     </div>
                   </div>
                 </div>
