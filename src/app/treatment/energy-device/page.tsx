@@ -439,20 +439,18 @@ const EnergyDevicePage = () => {
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                       </svg>
                     </a>
-                   <a 
+{/* 找到大约第 496 行附近的这段代码 */}
+<a 
   href="https://www.fresha.com/book-now/klinik-ka-aesthetic-clinic-fivxhb80/all-offer?share=true&pId=2723491" 
   target="_blank" 
   rel="noopener noreferrer"
   className="consultation-btn"
 >
   Make an Appointment
-  {/* SVG code... */}
+  <svg className="btn-arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+  </svg>
 </a>
-                      Make an Appointment
-                      <svg className="btn-arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                      </svg>
-                    </a>
                   </div>
                 </div>
               </div>
