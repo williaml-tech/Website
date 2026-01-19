@@ -8,7 +8,7 @@ const Footer = () => {
   const menu = [
     { title: 'About', href: '/about' },
     { title: 'Concerns', href: '/concerns' },
-    { title: 'Make appointment', href: '/appointment' },
+    { title: 'Make appointment', href: 'https://www.fresha.com/book-now/klinik-ka-aesthetic-clinic-fivxhb80/all-offer?share=true&pId=2723491' },
     { title: 'Contact us', href: '/contact' },
   ];
 
