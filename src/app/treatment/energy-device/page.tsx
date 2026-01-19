@@ -465,12 +465,12 @@ const EnergyDevicePage = () => {
       <section className="cta-section">
         <div className="container">
           <CTA
-            label="Call to Action"
-            title="Discover Your Possibilities. Schedule Your Complimentary Consultation Today"
-            description="During this confidential session, we will discuss your goals and provide you with all the necessary information for a treatment plan that is tailored to your individual needs."
-            buttonText="Make an Appointment"
-            buttonLink="/appointment"
-          />
+  label="Call to Action"
+  title="Discover Your Possibilities. Schedule Your Complimentary Consultation Today"
+  description="During this confidential session..."
+  buttonText="Make an Appointment"
+  buttonLink="https://www.fresha.com/book-now/klinik-ka-aesthetic-clinic-fivxhb80/all-offer?share=true&pId=2723491" // <--- 修改这里
+/>
         </div>
       </section>
 
