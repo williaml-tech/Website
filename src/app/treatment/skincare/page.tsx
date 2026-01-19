@@ -376,12 +376,12 @@ const SkincarePage: React.FC = () => {
 
           {/* CTA Section */}
           <CTA
-            label="Call to Action"
-            title="Start Your Personalized Skincare Journey"
-            description="Book a professional consultation to receive a comprehensive skin assessment and customized treatment plan tailored to your unique needs."
-            buttonText="Make an Appointment"
-            buttonLink="/appointment"
-          />
+  label="Call to Action"
+  title="Start Your Personalized Skincare Journey"
+  description="Book a professional consultation..."
+  buttonText="Make an Appointment"
+  buttonLink="https://www.fresha.com/book-now/klinik-ka-aesthetic-clinic-fivxhb80/all-offer?share=true&pId=2723491" // <--- 修改这里
+/>
         </div>
       </section>
 
