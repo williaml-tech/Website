@@ -266,7 +266,14 @@ const ConcernsPage: React.FC = () => {
                 product names or pricing for our non-surgical cosmetic medical treatments without a comprehensive
                 consultation, as every patient&apos;s needs are unique.
               </div>
-              <a className="cta-button" href="/appointment">Book Your Consultation</a>
+              <a 
+  className="cta-button" 
+  href="https://www.fresha.com/book-now/klinik-ka-aesthetic-clinic-fivxhb80/all-offer?share=true&pId=2723491"
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  Book Your Consultation
+</a>
             </div>
           </div>
         </div>
